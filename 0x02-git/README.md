@@ -1,4 +1,4 @@
-#ALX Training - Git Project
+# ALX Training - Git Project
 
 This project includes:
 
